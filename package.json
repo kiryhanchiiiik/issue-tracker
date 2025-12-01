@@ -11,14 +11,17 @@
   "dependencies": {
     "@prisma/client": "5.3.1",
     "@radix-ui/themes": "^3.2.1",
+    "axios": "^1.13.2",
     "classnames": "2.3.2",
     "easymde": "^2.20.0",
     "next": "16.0.5",
     "prisma": "5.3.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
+    "react-hook-form": "^7.67.0",
     "react-icons": "4.11.0",
     "react-simplemde-editor": "^5.2.0",
+    "simplemde": "^1.11.2",
     "zod": "3.22.2"
   },
   "devDependencies": {
